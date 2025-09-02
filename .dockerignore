@@ -1,7 +1,6 @@
 node_modules
 build
-.dockerignore
 Dockerfile
+.dockerignore
 .git
 .gitignore
-npm-debug.log
